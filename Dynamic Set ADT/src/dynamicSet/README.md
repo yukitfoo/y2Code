@@ -1,4 +1,4 @@
-#ADT implementation
+# ADT implementation
 Dynamic set implementation using a doubly linked list and a binary search tree
 Main operaitons include:
 1. insertion
